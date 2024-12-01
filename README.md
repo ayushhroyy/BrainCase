@@ -7,7 +7,7 @@ A Flutter project for a smart helmet controlling application.
 
 
 
-![motion home preview](https://photos.app.goo.gl/UQmkMRhuiNdBa19x8)
+![motion home preview](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxneG56NmY5ZjIxMTNnaHpxYXUzd2gza2NnMjRvN3J1cXc1ZWRoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z53LknnH10kVkD49QL/giphy.gif)
 
 
 
