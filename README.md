@@ -2,7 +2,7 @@
 
 A Flutter project for a smart helmet controlling application.
 
-## Android snippets
+## Application snippets
 ![log in page](https://github.com/user-attachments/assets/69a16c2d-87e6-4a24-ac27-2fa08f6a5e10)
 
 
